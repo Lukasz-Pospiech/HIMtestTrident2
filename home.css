@@ -198,7 +198,7 @@
   max-height: calc(var(--vh, 1vh) * 200);
   padding: 0;
   background-image: linear-gradient(rgb(0, 82, 149), rgb(0, 45, 82));
-  margin-top: 0;
+  top: calc(var(--vh, 1vh) * 1);
   font-size: 8vw;
   color: white;
   text-align: center;
