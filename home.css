@@ -26,7 +26,7 @@
     background-color: black;
     width: 100vw;
     max-width: 100vw;
-    overflow-x: hidden;
+    overflow-x: clip;
     padding: 0;
     margin: 0;
     font-family: 'News Cycle', 'Source Sans Pro', 'Arial';
@@ -42,7 +42,7 @@
     grid-template-columns: 1fr;
     justify-items: center;
     align-items: top;
-    overflow-x: hidden;
+    overflow-x: clip;
     top: 0;
     left: 0;
     padding: 0;
